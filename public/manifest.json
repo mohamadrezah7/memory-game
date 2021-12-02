@@ -1,0 +1,29 @@
+{
+  "short_name": "Memory Game",
+  "name": "Magic Memory Game",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#82589F",
+  "background_color": "#6F1E51"
+}
