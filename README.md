@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Play The Game Here And Enjoy :)
+https://magic-memory-game.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
