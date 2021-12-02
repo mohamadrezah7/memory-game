@@ -7,6 +7,7 @@ const cacheAssets = [
   "../src/App.js",
   "../src/App.css",
   "../src/index.css",
+  "../src/back.png",
   "../src/components/SingleCard.css",
   "../src/components/SingleCard.js"
 ];

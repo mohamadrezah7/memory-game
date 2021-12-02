@@ -47,7 +47,6 @@ button:hover{
 .footer {
   font-family: Fjalla One;
   margin: 45px 0 0 0;
-  color: #dfe6e9;
-  opacity: 0.3;
+  color: black;
   user-select: none;
 }
